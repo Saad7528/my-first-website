@@ -1,0 +1,28 @@
+h1{
+    color: rgb(137, 27, 27);
+}
+h2{
+    color: darkolivegreen;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(206, 204, 204);
+    width:fit-content;
+    padding: 5px;
+}
+div{
+    border: 5PX solid tomato;
+    margin: 10PX;
+    padding: 10PX;
+    border-radius: 5PX 3px 10px;
+}
+p{
+    color: blueviolet;
+    font-weight: 700;
+}
+#p1{
+    color: brown;
+}
+#p2{
+    text-align: justify;
+    background-color: antiquewhite;
+}
