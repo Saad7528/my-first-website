@@ -1,5 +1,6 @@
 h1{
     color: rgb(137, 27, 27);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h2{
     color: darkolivegreen;
@@ -29,4 +30,10 @@ p{
 .gitpush{
     color: rgb(7, 94, 7);
     font-weight: 800;
+}
+.gun{
+    color: rgb(169, 17, 169);
+    background-color: rgba(228, 226, 226, 0.687);
+    width: fit-content;
+    padding: ;
 }
